@@ -1,0 +1,5 @@
+Another sample text file for the project.
+Used to meet the requirement of at least two TXT files.
+This one demonstrates varied content length.
+Goodbye from the multi-threaded server!
+Additional line for chunked transfer testing.
